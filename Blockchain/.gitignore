@@ -1,5 +1,6 @@
 node_modules
 .env
+.png
 coverage
 coverage.json
 typechain

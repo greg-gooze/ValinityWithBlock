@@ -1,0 +1,62 @@
+[
+    {
+        "hash": "b1c8926248966cb79acac5bfa5adbc371023b560322cb54606027cf93ae1f6de",
+        "ID": "1",
+        "Nom": "CHEVALIER",
+        "Prenom": "Grégoire",
+        "DatedeNaissance": "07/06/2000",
+        "NINE": "124143423",
+        "Promo": "ING-2024",
+        "Spe": "SI"
+    },
+    {
+        "hash": "1dda3773951d2f23ca9e14267b8e8d9845360752b046945fb30c05b9efe86c8b",
+        "ID": "2",
+        "Nom": "VANDESSEL",
+        "Prenom": "Robin",
+        "DatedeNaissance": "17/06/2001",
+        "NINE": "123432423",
+        "Promo": "ING-2024",
+        "Spe": "SANTE"
+    },
+    {
+        "hash": "8b0353091e8ceeabf39e9bb4f246abdaf827511c5aa88fad812d7feb5d1d7ad3",
+        "ID": "3",
+        "Nom": "GAESSLER",
+        "Prenom": "Slim",
+        "DatedeNaissance": "04/06/2001",
+        "NINE": "354423523",
+        "Promo": "ING-2024",
+        "Spe": "ENVIRONNEMENT"
+    },
+    {
+        "hash": "57ac8a6fb06cc0cff067c39a0f8692d1c1899bacec7a5ebf7db203f09f444300",
+        "ID": "4",
+        "Nom": "LOPEZ",
+        "Prenom": "Thomas",
+        "DatedeNaissance": "10/02/2000",
+        "NINE": "1343242",
+        "Promo": "ING-2024",
+        "Spe": "SE"
+    },
+    {
+        "hash": "034a8739363a250648abad090405497a4be5814d74d553306b7debffb1348b78",
+        "ID": "5",
+        "Nom": "DUBOIS",
+        "Prenom": "Clement",
+        "DatedeNaissance": "13/09/2001",
+        "NINE": "124234324",
+        "Promo": "ING-2024",
+        "Spe": "OCRE"
+    },
+    {
+        "hash": "6c51d4c20819a9d7658268e700e66358456bfae7d55c1a3640be49cf4a161ba9",
+        "ID": "6",
+        "Nom": "TATRE",
+        "Prenom": "Alex",
+        "DatedeNaissance": "16/05/2001",
+        "NINE": "43223423",
+        "Promo": "ING-2024",
+        "Spe": "FINANCE"
+    }
+]

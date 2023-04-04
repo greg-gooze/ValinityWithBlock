@@ -1,0 +1,13 @@
+{
+    "Ecole": "ECE",
+    "Promo": {
+        "ING-2024": [
+            "SI",
+            "SANTE",
+            "ENVIRONNEMENT",
+            "SE",
+            "OCRE",
+            "FINANCE"
+        ]
+    }
+}

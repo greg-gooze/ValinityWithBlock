@@ -1,0 +1,21 @@
+{
+    "description": "This is a simple test for NFT deployment",
+    "external_url": "https://www.google.com",
+    "image": "https://ipfs.io/ipfs/QmZQwE4A3Lm6pMqvC8LF1vukCmAdYR7zYAPGMBdxxxPZms",
+    "name": "Test NFT",
+    "hash": "fzldpfpzdpzefzpflpzlfpzjesuisunhash",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smiling"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "ING-2024_2",
+  "description": "Valinity est une société qui stocke des diplômes on chain.",
+  "image": "ipfs://QmYE4kxbhzPzegxCDXApv2F37RdLyKG5Mg8wmCLvtPLP84/1dda3773951d2f23ca9e14267b8e8d9845360752b046945fb30c05b9efe86c8b.png",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "Date Mint",
+      "value": 1680631473357
+    },
+    {
+      "trait_type": "Hash",
+      "value": "1dda3773951d2f23ca9e14267b8e8d9845360752b046945fb30c05b9efe86c8b"
+    },
+    {
+      "trait_type": "Ecole",
+      "value": "ECE PARIS"
+    },
+    {
+      "trait_type": "Promo",
+      "value": "ING-2024"
+    },
+    {
+      "trait_type": "Majeur",
+      "value": "SANTE"
+    }
+  ],
+  "compiler": "Valinity"
+}

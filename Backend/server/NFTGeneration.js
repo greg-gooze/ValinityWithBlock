@@ -29,11 +29,11 @@ exports.generate = function () {
                         .print(font, 2, 200, `NINE: ${item.NINE}`)
                         .print(font, 2, 250, `Promo: ${item.Promo}`)
                         .print(font, 2, 300, `Spe: ${item.Spe}`)
-                        .write(`Images/${item.NINE}.png`);
+                        .write(`Images/${item.hash}.png`);
                         
                 });
             });
-            console.log(`Image ${item.NINE} generated`);
+            console.log(`Image ${item.hash} generated`);
         });
     });
 };
